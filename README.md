@@ -94,6 +94,3 @@ terraform destroy
 ```
 
 ---
-
-**Author:**  
-Brahati
